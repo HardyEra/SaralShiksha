@@ -36,7 +36,7 @@ app.get('/info', (req, res) => {
 // Rest of your server code...
 
 // Connect to MongoDB
-mongoose.connect('mongodb+srv://kashyaphardik789:*123news@datax.2u4uvkh.mongodb.net/attendance3', {
+mongoose.connect('mongodb+srv://kashyaphardik789:**********@datax.2u4uvkh.mongodb.net/attendance3', {
     useNewUrlParser: true,
     useUnifiedTopology: true,
 })
